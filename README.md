@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on:<br>Personal projects in AI and data analytics<br>Building my foundation in computer engineering fundamentals<br>Exploring generative AI applications and prompt engineering techniques<br><br>I'm looking to collaborate on<br>Open-source AI/ML projects<br>Data science initiatives<br>I've earned 4+ professional certifications in AI and data analytics before turning 20
+I'm currently working on:<br>Personal projects in Java, AI and data analytics<br>Building my foundation in computer engineering fundamentals<br>Exploring generative AI applications and prompt engineering techniques<br><br>I'm looking to collaborate on<br>Open-source AI/ML projects<br>Data science initiatives<br>I've earned 4+ professional certifications in AI and data analytics before turning 20
 
 
 ## 🌐 Socials:
